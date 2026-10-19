@@ -55,21 +55,21 @@ Sistem aşağıdaki CRUD operasyonlarını desteklemektedir:
 
 ## Ekran Görüntüleri
 
-![get](GET.png)
+![get](images/GET.png)
 
-![get_id](GET_id.png)
+![get_id](images/GET_id.png)
 
-![get2](GET2.png)
+![get2](images/GET2.png)
 
-![get3](GET3.png)
+![get3](images/GET3.png)
 
-![get4](GET4.png)
+![get4](images/GET4.png)
 
-![post](POST.png)
+![post](images/POST.png)
 
-![put](PUT.png)
+![put](images/PUT.png)
 
-![delete](DELETE.png)
+![delete](images/DELETE.png)
 
 ## 🧪 Test Süreci
 
