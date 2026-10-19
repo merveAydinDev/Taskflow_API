@@ -53,6 +53,24 @@ Sistem aşağıdaki CRUD operasyonlarını desteklemektedir:
 | **PUT** | `/api/tasks/:id` | Var olan bir görevin bilgilerini günceller. |
 | **DELETE**| `/api/tasks/:id` | Belirtilen ID'ye sahip görevi sistemden siler. |
 
+## Ekran Görüntüleri
+
+![get](GET.png)
+
+![get_id](GET_id.png)
+
+![get2](GET2.png)
+
+![get3](GET3.png)
+
+![get4](GET4.png)
+
+![post](POST.png)
+
+![put](PUT.png)
+
+![delete](DELETE.png)
+
 ## 🧪 Test Süreci
 
 Bu projede yer alan tüm API uç noktaları **Postman** aracı kullanılarak test edilmiştir. Görev ekleme, listeleme, detay görüntüleme, güncelleme ve silme (CRUD) işlemlerinin başarıyla gerçekleştiğini kanıtlayan ekran görüntüleri projenin içerisindeki ilgili klasörde/dizinde yer almaktadır.
